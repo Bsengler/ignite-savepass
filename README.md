@@ -12,6 +12,9 @@
 
 ignite-template-react-native-savepass
 
+
+*Atenção:* para rodar esse projeto, clone-o em sua máquina e execute o comando [npm install --legacy-peer-deps] para que o node_modules seja criado corretamente, respeitando a versão de algumas bibliotecas presentes no template!
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
